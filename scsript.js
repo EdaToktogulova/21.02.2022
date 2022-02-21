@@ -32,4 +32,13 @@ const articles = [
    },
 ]
 
-document.querySelector('article-1').
+const main = document.querySelector('main')
+articles.forEach(article => {
+   const article = document.createElement('article');
+   const h1 = document.createElement('h1');
+   const img = document.createElement('img');
+   const p = document.createElement('p');
+
+   h1.textContent = article.title;
+   img.src
+});
