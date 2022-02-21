@@ -31,3 +31,5 @@ const articles = [
       body: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, saepe reiciendis asperiores quaerat amet sequi officiis quasi libero ratione eveniet consequuntur incidunt dolores praesentium alias vel sapiente ducimus itaque optio?"
    },
 ]
+
+document.querySelector('article-1').
