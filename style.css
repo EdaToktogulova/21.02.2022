@@ -6,7 +6,7 @@ p {
 }
 
 summary {
-   font-family: "Roboto";
+   font-family: "Roboto", sans-serif;
    font-size: x-large;
    color: rgb(28, 30, 158);
 }
