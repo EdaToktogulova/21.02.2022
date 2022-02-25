@@ -1,7 +1,12 @@
-.hidden {
-   display: none;
+p {
+   background-color: rgb(109, 237, 241);
+   color: black;
+   font-family: 'Redressed', cursive;
+   font-size: large;
 }
-main {
-   display: flex;
-   
+
+summary {
+   font-family: "Roboto";
+   font-size: x-large;
+   color: rgb(35, 37, 167);
 }
