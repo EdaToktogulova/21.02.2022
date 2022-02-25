@@ -42,3 +42,4 @@ articles.forEach(article => {
    h1.textContent = article.title;
    img.src
 });
+
